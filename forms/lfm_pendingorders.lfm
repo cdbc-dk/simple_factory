@@ -1,0 +1,28 @@
+object frmPendingOrders: TfrmPendingOrders
+  Left = 524
+  Height = 240
+  Top = 237
+  Width = 320
+  Caption = 'Pending orders'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.2.0'
+  object Panel1: TPanel
+    Left = 77
+    Height = 50
+    Top = 76
+    Width = 170
+    BevelInner = bvLowered
+    Caption = 'Bogballe'
+    TabOrder = 0
+  end
+  object btnBye: TButton
+    Left = 222
+    Height = 25
+    Top = 197
+    Width = 75
+    Caption = 'Bye bye'
+    OnClick = btnByeClick
+    TabOrder = 1
+  end
+end

@@ -1,0 +1,32 @@
+object frmLowStock: TfrmLowStock
+  Left = 919
+  Height = 240
+  Top = 425
+  Width = 320
+  Caption = 'Low Stock Listing'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.2.0'
+  object btnFinished: TButton
+    Left = 124
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'Finished'
+    OnClick = btnFinishedClick
+    TabOrder = 0
+  end
+  object ListBox1: TListBox
+    Left = 28
+    Height = 80
+    Top = 56
+    Width = 264
+    Items.Strings = (
+      'Lyserøde gyngehesterøvhuller: 7'
+      'Æselører: 3'
+      'Prutter: 1'
+    )
+    ItemHeight = 21
+    TabOrder = 1
+  end
+end
