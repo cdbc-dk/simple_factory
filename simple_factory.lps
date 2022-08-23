@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="simple_factory.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="8"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lfm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="9" Y="59"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="u_factory.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="76" Y="10"/>
+        <FoldState Value=" T3iR046c"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lfm_prodlist.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmProductList"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="25"/>
+        <FoldState Value=" T1a03 T3f042M"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2204"/>
+        <CursorPos X="46" Y="2174"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="634"/>
+        <CursorPos X="15" Y="640"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="3" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="u_basereport.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="19" Y="35"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="160"/>
+        <CursorPos Y="169"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="107"/>
+        <CursorPos Y="114"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2952"/>
+        <CursorPos Y="2959"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="210"/>
+        <CursorPos X="21" Y="215"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/rtl/inc/objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="331"/>
+        <CursorPos X="12" Y="334"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="715"/>
+        <CursorPos X="16" Y="725"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="218"/>
+        <CursorPos X="47" Y="227"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/cthreads.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="310"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lfm_lowstock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLowStock"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="43"/>
+        <FoldState Value=" T3a043v"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lfm_discprod.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDiscProd"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="67" Y="43"/>
+        <FoldState Value=" T3a043v"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lfm_pendingorders.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPendingOrders"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="50" Y="61"/>
+        <FoldState Value=" T3a043v"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="63" Column="49" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="64" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="66" Column="52" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="60" Column="53" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="61" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="62" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="63" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="71" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="59" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="45" Column="29" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="simple_factory.lpr"/>
+        <Caret Line="13" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="59" Column="9"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="TRpt"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,30 @@
+object frmProductList: TfrmProductList
+  Left = 743
+  Height = 240
+  Top = 156
+  Width = 320
+  Caption = 'Product Listing'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.2.0'
+  object Label1: TLabel
+    Left = 8
+    Height = 27
+    Top = 84
+    Width = 300
+    Caption = 'Listing a lot of products here'
+    Font.Color = clLime
+    Font.Height = -23
+    ParentColor = False
+    ParentFont = False
+  end
+  object btnDone: TButton
+    Left = 236
+    Height = 25
+    Top = 208
+    Width = 75
+    Caption = 'Done'
+    OnClick = btnDoneClick
+    TabOrder = 0
+  end
+end

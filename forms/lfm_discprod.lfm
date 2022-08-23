@@ -1,0 +1,29 @@
+object frmDiscProd: TfrmDiscProd
+  Left = 101
+  Height = 240
+  Top = 423
+  Width = 320
+  Caption = 'Discontinued products'
+  ClientHeight = 240
+  ClientWidth = 320
+  DoubleBuffered = True
+  ParentDoubleBuffered = False
+  LCLVersion = '2.2.2.0'
+  object GroupBox1: TGroupBox
+    Left = 56
+    Height = 105
+    Top = 88
+    Width = 185
+    Caption = ' Discontinued products '
+    TabOrder = 0
+  end
+  object btnClose: TButton
+    Left = 99
+    Height = 25
+    Top = 15
+    Width = 75
+    Caption = 'Close'
+    OnClick = btnCloseClick
+    TabOrder = 1
+  end
+end
